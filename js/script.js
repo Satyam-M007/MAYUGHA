@@ -1,5 +1,5 @@
 // Set the target date to April 12, 00:00:00
-const birthdayDate = new Date('2024-04-12T00:00:00');
+const birthdayDate = new Date('2025-04-12T00:00:00');
 
 // List of romantic songs for other days
 const romanticSongs = [
